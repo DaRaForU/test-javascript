@@ -1,0 +1,41 @@
+body{
+    font-family: Arial;
+    background-color: black;
+    color: white;
+}
+.btn-icon{
+    height: 50px;
+}
+.img-btn{
+    height: 100px;
+    width: 100px;
+    background-color: transparent;
+    border: 3px solid white;
+    border-radius: 50px;
+    margin-right: 10px;
+    cursor: pointer;
+}
+.button-reset{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: bisque;
+}
+.button-auto-play{
+    background-color: aqua;
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.red-btn{
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: red;
+}
+.hidden-element{
+    display: none;
+}
